@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class LinkedListLoop {
     static Node head;
-
     static class Node {
         int data;
         Node next;
